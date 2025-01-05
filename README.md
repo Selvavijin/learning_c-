@@ -34,3 +34,6 @@ int main() {
 }
 Output: 17
 
+Numbers: 
+
+In numbers we can use functions like pow(a,b), sqrt(x),round(a), ceil(a)[Here, even if 'a' is 4.1, it gets rounded off to 5], floor(a)[Here, even if 'a' is 4.8, it gets rounded off to 4], fmax(a,b) and fmin(a,b) gives us the bigger and smaller number respectively   after including '#include <cmath>'.
