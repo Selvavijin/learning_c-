@@ -1,6 +1,6 @@
 # learning_c++
 
-String:
+String: 
 
   Here, 'find' function is used where 2 arguments can be passed. The first argument specifies the character or string that we need to find and the second argument specifies the index value from where we need to search.
 #include <iostream>
