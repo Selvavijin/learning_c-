@@ -22,6 +22,19 @@
 
 ![image](https://github.com/user-attachments/assets/005bf797-e996-4657-a5ea-5b02508ffb7d)
 
+![image](https://github.com/user-attachments/assets/c48aa5ad-e396-4c70-aa7e-7f9b0a52b2f1)
+
+![image](https://github.com/user-attachments/assets/fc2b3788-7c5c-4425-b447-3b0a8eda93af)
+
+![image](https://github.com/user-attachments/assets/9e32fd80-8d6f-41b0-a00e-0a192180edb1)
+
+![image](https://github.com/user-attachments/assets/88c5fe60-0a87-4490-9580-2e4a75e878e8)
+
+![image](https://github.com/user-attachments/assets/93df61b2-1e80-482f-89c5-ab6869cadd73)
+
+![image](https://github.com/user-attachments/assets/eeb2cb84-9ce4-4572-adde-2917cd9234c1)
+
+
 String: 
 
   Here, 'find' function is used where 2 arguments can be passed. The first argument specifies the character or string that we need to find and the second argument specifies the index value from where we need to search.
