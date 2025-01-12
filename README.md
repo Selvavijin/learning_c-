@@ -32,7 +32,11 @@
 
 ![image](https://github.com/user-attachments/assets/93df61b2-1e80-482f-89c5-ab6869cadd73)
 
+This is an explicit typecasting where we tell the compiler about the data type of the variables.
+
 ![image](https://github.com/user-attachments/assets/eeb2cb84-9ce4-4572-adde-2917cd9234c1)
+
+![image](https://github.com/user-attachments/assets/989f78b6-26ae-4349-8909-f59578db890a)
 
 
 String: 
