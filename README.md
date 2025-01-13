@@ -40,6 +40,7 @@ This is an explicit typecasting where we tell the compiler about the data type o
 
 ![image](https://github.com/user-attachments/assets/989f78b6-26ae-4349-8909-f59578db890a)
 
+![image](https://github.com/user-attachments/assets/809e7464-fbfa-433b-af37-a44ae696e05f)
 
 String: 
 
