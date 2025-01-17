@@ -146,3 +146,7 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/d9722b9a-115c-41c6-a216-0658cc1e37c2)
 
+The line mentioned below will not gets executed becuse, it is present below the return keyword.
+
+![image](https://github.com/user-attachments/assets/fc7e325d-1c4d-4c77-a852-c5bf0bee459f)
+
